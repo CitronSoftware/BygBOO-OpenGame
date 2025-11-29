@@ -1,1 +1,5 @@
 # BygBOO-OpenGame
+
+This is a game coding in HTML
+YOU MUST HAVE AN INTERNET CONNECTION TO PLAY THE OPEN-SOURCE GAME !
+
